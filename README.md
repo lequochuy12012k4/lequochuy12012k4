@@ -82,7 +82,7 @@
   <br><br>
 
   <!-- AI & Machine Learning -->
-  <strong>AI & Machine Learning:</strong> 
+  <strong>AI Support:</strong> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>TensorFlow  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>Keras  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>Scikit-learn  
