@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Banner Profile" width="800"/>
-  <!-- Thay URL_BANNER_CUA_BAN bằng URL ảnh banner của bạn. -->
+  <img src="URL_BANNER_CUA_BAN" alt="Banner Profile" width="800"/>
+  <!-- Thay URL_BANNER_CUA_BAN bằng URL ảnh banner của bạn. Ví dụ của Ritik có vẻ tùy chỉnh. -->
 </p>
 
 <div align="center">
@@ -9,9 +9,13 @@
   <h3>A Web Developer in making 🚀</h3>
 </div>
 
-<!-- Visitor Counter -->
+<!-- Visitor Counter & Repos -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ritik307&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://github.com/ritik307?tab=repositories" target="_blank">
+    <img alt="Repositories" src="https://img.shields.io/github/repositories/ritik307?style=flat-square&logo=GitHub&label=REPOSITORIES&labelColor=555&color=blueviolet"/>
+    <!-- Thay ritik307 bằng username của bạn -->
+  </a>
 </p>
 
 ---
@@ -46,36 +50,26 @@
 
 ---
 
-### 📊 My GitHub Stats 🐧
+### 📊 My GitHub Usage 🐧
 
-<p align="center">
-  <!-- Badge cho Total Repositories -->
-  <a href="https://github.com/ritik307?tab=repositories" target="_blank">
-    <img alt="Repositories" src="https://img.shields.io/github/repositories/ritik307?style=for-the-badge&logo=GitHub&label=REPOSITORIES&labelColor=555&color=blueviolet"/>
-  </a>
-  <!-- Bạn có thể thêm một badge/text cho total commits nếu muốn, ví dụ: -->
-  <!-- <img alt="Commits" src="URL_TO_YOUR_COMMITS_BADGE_OR_TEXT_IMAGE"/> -->
-  <!-- Hoặc tham khảo "Total Contributions" từ Streak Stats bên dưới -->
-</p>
+<div align="left" style="padding-left: 20px;"> <!-- Thêm padding để căn lề giống tiêu đề hơn -->
+  <h4>Most Used Languages:</h4>
+  <!-- Bạn sẽ cần tự cập nhật các ngôn ngữ và % từ profile của mình -->
+  <!-- Ví dụ dựa trên ảnh bạn cung cấp: -->
+  <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>   <strong>JavaScript: 60.81%</strong></p>
+  <p><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>   <strong>C#: 37.83%</strong></p>
+  <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>   <strong>C++: 1.36%</strong></p>
+  <!-- Thêm các ngôn ngữ khác nếu bạn có nhiều hơn và muốn hiển thị -->
+  <!-- <p><img src="URL_BADGE_NGON_NGU_KHAC" alt="Tên Ngôn Ngữ"/>   <strong>Tên Ngôn Ngữ: XX.XX%</strong></p> -->
+</div>
 
-<p align="center">
-  <!-- Card Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&card_width=380" alt="Top Languages" />
-</p>
-<p align="center">
-  <!-- GitHub Streak Stats (bao gồm Total Contributions, có thể dùng để ước lượng commits) -->
-  <img src="https://streak-stats.demolab.com/?user=ritik307&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+<br> <!-- Tạo một khoảng trống nhỏ -->
 
-<!-- 
-  Lưu ý quan trọng về "Total Commits":
-  - GitHub Streak Stats (hình trên) có hiển thị "Total Contributions", bao gồm commits, issues đã tạo, PRs, v.v. Đây là một chỉ số tốt về hoạt động chung của bạn.
-  - Nếu bạn muốn một con số CHỈ TỔNG SỐ COMMIT, bạn có thể cần tìm một dịch vụ badge khác hoặc tự cập nhật một con số ở đây.
-  - Ví dụ về cách thêm một dòng text:
-    <p align="center" style="font-size:16px; color:#YOUR_TEXT_COLOR_FOR_THEME;">
-      ✨ Total Commits (ước tính): <b>[Lấy từ Total Contributions hoặc tự cập nhật]</b> ✨
-    </p>
--->
+<p align="center" style="font-size:16px; color:#c9d1d9;">
+  <!-- Thay #c9d1d9 bằng màu text phù hợp với theme của bạn (ví dụ: tokyonight) -->
+  <!-- Con số này bạn có thể xem trên profile GitHub (phần Contributions) -->
+  ✨ Total Contributions: <b>[TỰ ĐIỀN SỐ CỦA BẠN, VÍ DỤ: 888]</b> ✨
+</p>
 
 ---
 
