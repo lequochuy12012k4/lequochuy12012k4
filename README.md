@@ -36,6 +36,7 @@ Tôi là một **[Chức danh của bạn, ví dụ: Lập trình viên Full-Sta
 
 Đây là một số công nghệ và công cụ mà tôi thường xuyên làm việc cùng:
 
+<!-- Icon công nghệ -->
 <table>
   <tr>
     <td align="center" width="120">
@@ -63,42 +64,24 @@ Tôi là một **[Chức danh của bạn, ví dụ: Lập trình viên Full-Sta
       <br>Docker
     </td>
   </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="120">
-      <img src="URL_ICON_KHAC" width="48" height="48" alt="Tên Công Nghệ" />
-      <br>Tên Công Nghệ
-    </td>
-    <!-- Thêm các kỹ năng khác vào đây -->
-  </tr>
+  <!-- Thêm hàng icon khác nếu cần -->
 </table>
 
-*   **Ngôn ngữ:** JavaScript (ES6+), TypeScript, Python, Java, C#, Go, ...
-*   **Frontend:** React, Angular, Vue.js, HTML5, CSS3, SASS/LESS, ...
-*   **Backend:** Node.js (Express.js), Python (Django/Flask), Java (Spring Boot), Ruby on Rails, ...
-*   **Cơ sở dữ liệu:** MongoDB, PostgreSQL, MySQL, SQL Server, Redis, ...
-*   **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Git, AWS, Azure, Google Cloud, ...
-*   **Testing:** Jest, Mocha, Cypress, Selenium, JUnit, ...
-*   **Khác:** Agile/Scrum, Thiết kế API, Microservices, ...
+*   **Ngôn ngữ Lập trình & Mức độ thành thạo (Tự đánh giá):**
+    *   JavaScript: `[█████████-] 90% (Thành thạo)`
+    *   Python:     `[███████---] 70% (Khá)`
+    *   Java:       `[█████-----] 50% (Cơ bản)`
+    *   TypeScript: `[████████--] 80% (Tốt)`
+    *   SQL:        `[████████--] 80% (Tốt)`
+    *   <!-- [Tên Ngôn Ngữ]: `[Thanh tiến trình] XX% (Mô tả)` -->
+    *   *Bạn có thể tùy chỉnh thanh tiến trình bằng các ký tự như `█` (alt+219), `▓`, `▒`, `░` hoặc `-`.*
+
+*   **Frontend:** React, Angular, Vue.js, HTML5, CSS3, SASS/LESS, Redux, Next.js, ...
+*   **Backend:** Node.js (Express.js), Python (Django/Flask), Java (Spring Boot), Ruby on Rails, NestJS, ...
+*   **Cơ sở dữ liệu:** MongoDB, PostgreSQL, MySQL, SQL Server, Redis, Firebase, ...
+*   **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Git, GitHub Actions, AWS (EC2, S3, Lambda), Azure, Google Cloud, ...
+*   **Testing:** Jest, Mocha, Cypress, Selenium, JUnit, PyTest, ...
+*   **Khác:** Agile/Scrum, Thiết kế API (REST, GraphQL), Microservices, System Design, ...
 
 ---
 
@@ -107,16 +90,6 @@ Tôi là một **[Chức danh của bạn, ví dụ: Lập trình viên Full-Sta
 <!-- 
   Sử dụng GitHub Pinning để ghim các repository quan trọng nhất của bạn.
   README này sẽ tự động hiển thị chúng.
-  Bạn cũng có thể liệt kê thủ công ở đây nếu muốn:
--->
-<!--
-1.  **[Tên Dự Án 1](URL_DU_AN_1)**
-    *   Mô tả ngắn gọn về dự án, công nghệ sử dụng, và vai trò của bạn.
-    *   `Stack`: React, Node.js, MongoDB
-
-2.  **[Tên Dự Án 2](URL_DU_AN_2)**
-    *   Mô tả ngắn gọn về dự án, công nghệ sử dụng, và vai trò của bạn.
-    *   `Stack`: Python, Django, PostgreSQL, Docker
 -->
 Bạn có thể xem các dự án được ghim (pinned repositories) của tôi ngay bên dưới! 👇
 
@@ -128,6 +101,7 @@ Bạn có thể xem các dự án được ghim (pinned repositories) của tôi
   <img src="https://github-readme-stats.vercel.app/api?username=TEN_GITHUB_CUA_BAN&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Thống kê GitHub của [Tên Của Bạn]" />
 </p>
 <p align="center">
+  <!-- Thẻ này hiển thị phần trăm ngôn ngữ dựa trên code trong repo của bạn -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_GITHUB_CUA_BAN&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Ngôn ngữ sử dụng nhiều nhất" />
 </p>
 <p align="center">
