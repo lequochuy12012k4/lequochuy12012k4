@@ -42,6 +42,7 @@ Tôi là một **[Chức danh của bạn, ví dụ: Lập trình viên Full-Sta
 
 <p align="left">
   <!-- Ngôn ngữ -->
+  <strong>Languages: </strong> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>C  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>C++  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>Java  
