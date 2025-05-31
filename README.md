@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img src="URL_BANNER_CUA_BAN" alt="Banner Profile" width="800"/>
-  <!-- Thay URL_BANNER_CUA_BAN bằng URL ảnh banner của bạn. Ví dụ của Ritik có vẻ tùy chỉnh. -->
+  <!-- Thay URL_BANNER_CUA_BAN bằng URL ảnh banner của bạn. -->
 </p>
 
 <div align="center">
@@ -30,44 +30,75 @@
 
 ---
 
-### 🛠️ Technology Stack 🐧
+### 🛠️ Technology Stack & Tools 🐧
+
+<!-- Hàng Icons cho các công nghệ chính -->
 <p align="left">
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+  <!-- Thêm các icon khác nếu cần -->
 </p>
+
+<br>
+
+**Languages:**
+  <code>C</code>   <code>C++</code>   <code>Java</code>   <code>JavaScript</code>   <code>Python</code>   <code>HTML5</code>   <code>CSS3</code>   <code>SQL</code>
+  <!-- Thêm ngôn ngữ khác -->
+
+**Frameworks & Libraries:**
+*   **Frontend:** <code>React</code>   <code>Bootstrap</code>   <code>jQuery</code>   <code>Material-UI</code>   <code>Tailwind CSS</code>
+    <!-- Ví dụ: Angular, Vue.js, Next.js, Redux, SASS/LESS -->
+*   **Backend:** <code>Node.js</code>   <code>Express.js</code>
+    <!-- Ví dụ: Django, Flask, Spring Boot, Ruby on Rails, NestJS, Laravel -->
+*   **Mobile (nếu có):** <!-- Ví dụ: React Native, Flutter -->
+*   **Testing (nếu có):** <!-- Ví dụ: Jest, Mocha, Cypress, Selenium -->
+
+**Databases:**
+  <code>MongoDB</code>   <code>MySQL</code>   <code>PostgreSQL</code>   <code>Firebase</code>   <code>SQLite</code>
+  <!-- Thêm database khác -->
+
+**Tools & Platforms:**
+*   **Version Control:** <code>Git</code>   <code>GitHub</code>
+*   **IDE & Editors:** <code>VS Code</code>   <code>IntelliJ IDEA</code>   <code>Sublime Text</code>   <code>Eclipse</code>
+*   **Containerization:** <code>Docker</code>
+    <!-- Ví dụ: Kubernetes -->
+*   **Cloud Platforms:** <code>Heroku</code>   <code>AWS (S3, EC2)</code>   <code>Firebase</code>
+    <!-- Ví dụ: Azure, GCP -->
+*   **API Tools:** <code>Postman</code>
+*   **Project Management:** <!-- Ví dụ: Jira, Trello -->
+
+**AI & Machine Learning (Support/Tools):**
+*   **Libraries/Frameworks:** <code>TensorFlow</code>   <code>Keras</code>   <code>Scikit-learn</code>   <code>Pandas</code>   <code>NumPy</code>   <code>Matplotlib</code>
+    <!-- Ví dụ: PyTorch, OpenCV -->
+*   **Developer Tools:** <code>GitHub Copilot</code>   <code>Jupyter Notebook</code>
+*   **Platforms/Services (nếu có):** <!-- Ví dụ: OpenAI API, Hugging Face, Google Colab -->
+*   **Concepts (nếu muốn liệt kê):** <!-- Ví dụ: NLP, Computer Vision, Deep Learning -->
 
 ---
 
 ### 📊 My GitHub Usage 🐧
 
-<div align="left" style="padding-left: 20px;"> <!-- Thêm padding để căn lề giống tiêu đề hơn -->
+<div align="left" style="padding-left: 20px;">
   <h4>Most Used Languages:</h4>
-  <!-- Bạn sẽ cần tự cập nhật các ngôn ngữ và % từ profile của mình -->
-  <!-- Ví dụ dựa trên ảnh bạn cung cấp: -->
   <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>   <strong>JavaScript: 60.81%</strong></p>
   <p><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>   <strong>C#: 37.83%</strong></p>
   <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>   <strong>C++: 1.36%</strong></p>
-  <!-- Thêm các ngôn ngữ khác nếu bạn có nhiều hơn và muốn hiển thị -->
-  <!-- <p><img src="URL_BADGE_NGON_NGU_KHAC" alt="Tên Ngôn Ngữ"/>   <strong>Tên Ngôn Ngữ: XX.XX%</strong></p> -->
+  <!-- Cập nhật các ngôn ngữ và % từ profile của bạn -->
 </div>
 
-<br> <!-- Tạo một khoảng trống nhỏ -->
+<br>
 
 <p align="center" style="font-size:16px; color:#c9d1d9;">
-  <!-- Thay #c9d1d9 bằng màu text phù hợp với theme của bạn (ví dụ: tokyonight) -->
-  <!-- Con số này bạn có thể xem trên profile GitHub (phần Contributions) -->
   ✨ Total Contributions: <b>[TỰ ĐIỀN SỐ CỦA BẠN, VÍ DỤ: 888]</b> ✨
 </p>
 
