@@ -1,139 +1,81 @@
-# 👋 Chào mừng đến với Profile GitHub của tôi!
-
+<!-- Banner -->
 <p align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE_OR_GIF" alt="Banner cá nhân" width="800"/>
-  <!-- Bạn có thể tạo banner tại canva.com hoặc các công cụ tương tự -->
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Banner Profile" width="800"/>
+  <!-- Thay URL_BANNER_CUA_BAN bằng URL ảnh banner của bạn. Ảnh trong ví dụ của Ritik có vẻ tùy chỉnh. -->
 </p>
 
-## [Tên Của Bạn]
+<div align="center">
+  <h1>Hi, I'm Ritik 👋</h1>
+  <h3>A Web Developer in making 🚀</h3>
+</div>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](URL_FACEBOOK_CUA_BAN)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](URL_GOOGLE_CUA_BAN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_CUA_BAN)
-<!-- Thêm các badge khác nếu muốn (Twitter, Blog, etc.) -->
-
----
-
-Tôi là một **[Chức danh của bạn, ví dụ: Lập trình viên Full-Stack, Kỹ sư Phần mềm, Nhà khoa học Dữ liệu]** đam mê với việc xây dựng các giải pháp phần mềm sáng tạo và hiệu quả. Với kinh nghiệm trong **[số] năm** làm việc với **[các công nghệ/lĩnh vực chính bạn làm việc]**, tôi luôn tìm kiếm cơ hội để học hỏi và đóng góp vào các dự án thú vị.
-
-✨ **Triết lý làm việc của tôi:** *"Code sạch, tư duy rõ ràng, và luôn hướng tới người dùng cuối."*
-
----
-
-### 👨‍💻 Về tôi
-
-*   🌍 Tôi đến từ **[Thành phố/Quốc gia của bạn]**.
-*   🚀 Hiện tại, tôi đang làm việc tại **[Tên công ty hoặc "Freelancer"]** với vai trò **[Chức danh]**.
-*   🧠 Tôi quan tâm đến **[Lĩnh vực bạn quan tâm, ví dụ: Trí tuệ nhân tạo, Phát triển Web, An ninh mạng, DevOps]**.
-*   🌱 Tôi đang học hỏi thêm về **[Công nghệ/Kỹ năng bạn đang học, ví dụ: Rust, Kubernetes, Machine Learning Operations]**.
-*   🤝 Tôi sẵn lòng hợp tác trong các dự án **[Loại dự án bạn muốn tham gia, ví dụ: mã nguồn mở, các dự án về AI, ứng dụng di động]**.
-*   💬 Hãy hỏi tôi về bất cứ điều gì liên quan đến **[Chủ đề bạn tự tin chia sẻ, ví dụ: JavaScript, Python, React, kiến trúc microservices]**.
-*   ⚡ Fun fact: **[Một sự thật thú vị về bạn, có thể liên quan hoặc không liên quan đến công việc]**.
-
----
-
-### 🛠️ Kỹ năng & Công nghệ
-
-Đây là một số công nghệ và công cụ mà tôi thường xuyên làm việc cùng:
-
-<!-- Icon công nghệ -->
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-  <!-- Thêm hàng icon khác nếu cần -->
-</table>
-
-*   **Ngôn ngữ Lập trình & Mức độ thành thạo (Tự đánh giá):**
-    *   JavaScript: `[█████████-] 90% (Thành thạo)`
-    *   Python:     `[███████---] 70% (Khá)`
-    *   Java:       `[█████-----] 50% (Cơ bản)`
-    *   TypeScript: `[████████--] 80% (Tốt)`
-    *   SQL:        `[████████--] 80% (Tốt)`
-    *   <!-- [Tên Ngôn Ngữ]: `[Thanh tiến trình] XX% (Mô tả)` -->
-    *   *Bạn có thể tùy chỉnh thanh tiến trình bằng các ký tự như `█` (alt+219), `▓`, `▒`, `░` hoặc `-`.*
-
-*   **Frontend:** React, Angular, Vue.js, HTML5, CSS3, SASS/LESS, Redux, Next.js, ...
-*   **Backend:** Node.js (Express.js), Python (Django/Flask), Java (Spring Boot), Ruby on Rails, NestJS, ...
-*   **Cơ sở dữ liệu:** MongoDB, PostgreSQL, MySQL, SQL Server, Redis, Firebase, ...
-*   **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Git, GitHub Actions, AWS (EC2, S3, Lambda), Azure, Google Cloud, ...
-*   **Testing:** Jest, Mocha, Cypress, Selenium, JUnit, PyTest, ...
-*   **Khác:** Agile/Scrum, Thiết kế API (REST, GraphQL), Microservices, System Design, ...
-
----
-
-### 🚀 Các dự án nổi bật
-
-<!-- 
-  Sử dụng GitHub Pinning để ghim các repository quan trọng nhất của bạn.
-  README này sẽ tự động hiển thị chúng.
--->
-Bạn có thể xem các dự án được ghim (pinned repositories) của tôi ngay bên dưới! 👇
-
----
-
-### 📊 Thống kê GitHub của tôi
-
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEN_GITHUB_CUA_BAN&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Thống kê GitHub của [Tên Của Bạn]" />
+  <img src="https://komarev.com/ghpvc/?username=ritik307&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <!-- Bạn có thể thêm các badge khác nếu muốn, ví dụ từ shields.io -->
+  <!-- Ví dụ badge Repos (tĩnh hoặc nếu có dịch vụ):
+  <img src="https://img.shields.io/github/repositories/ritik307?style=flat-square&logo=github&label=Repos&color=blue" alt="repos" />
+  -->
+</p>
+
+---
+
+<p align="left">
+  I'm a 2nd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛️.
+  I'm a passionate learner who's always willing to learn and work across technologies and domains ✨.
+  I love to explore new technologies and leverage them to solve real-life problems 💡.
+  Apart from that I also love to guide and mentor newbies 👨‍🏫.
+  I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+</p>
+
+---
+
+### 🛠️ Technology Stack 🐧
+<!-- Thay 🐧 bằng icon bạn muốn, hoặc bỏ đi -->
+<p align="left">
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <!-- Thêm các công nghệ khác nếu cần -->
+</p>
+
+---
+
+### 📊 My GitHub Stats 🐧
+<!-- Thay 🐧 bằng icon bạn muốn, hoặc bỏ đi -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&card_width=380" alt="Ritik Rawal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&card_width=380" alt="Top Languages" />
 </p>
 <p align="center">
-  <!-- Thẻ này hiển thị phần trăm ngôn ngữ dựa trên code trong repo của bạn -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEN_GITHUB_CUA_BAN&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Ngôn ngữ sử dụng nhiều nhất" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TEN_GITHUB_CUA_BAN&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ritik307&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <!-- 
-  Thay 'TEN_GITHUB_CUA_BAN' bằng username GitHub của bạn.
-  Bạn có thể tùy chỉnh theme và các thông số khác. Xem thêm tại:
-  - GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
-  - GitHub Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
+  Lưu ý:
+  - Username: Thay 'ritik307' bằng username của bạn.
+  - Theme: 'tokyonight' được sử dụng ở đây, bạn có thể thử các theme khác như 'radical', 'gruvbox', 'dracula', 'dark', etc.
+  - hide_border: Đặt là 'true' nếu bạn không muốn viền. Trong ảnh gốc có vẻ như có viền mờ hoặc không có.
+  - card_width: Điều chỉnh để các card hiển thị tốt.
+  - rank_icon: 'github' giống trong ảnh.
 -->
 
 ---
 
-### 📫 Liên hệ với tôi
+<!-- Bạn có thể thêm phần liên hệ hoặc các thông tin khác ở đây -->
 
-Bạn có thể tìm thấy tôi ở đây:
-
-*   **Email:** [EMAIL_CUA_BAN]
-*   **Facebook:** [URL_FACEBOOK_CUA_BAN]
-*   **Google:** [URL_GOOGLE_CUA_BAN]
-*   **Blog/Website cá nhân:** [URL_BLOG_CUA_BAN] (nếu có)
-*   **Twitter/X:** [@TEN_TWITTER_CUA_BAN] (nếu có)
-
----
-
-Cảm ơn bạn đã ghé thăm profile của tôi! Hy vọng chúng ta có cơ hội hợp tác. 😊
-
-<!-- 
-  Bạn có thể thêm vào đây:
-  - GitHub Trophies: https://github.com/ryo-ma/github-profile-trophy
-  - Các hoạt động gần đây trên GitHub: https://github.com/jamesgeorge007/github-activity-readme
-  - Hoặc bất cứ thứ gì sáng tạo khác!
--->
+### 📫 How to reach me:
+- Email: [ritikpr307@gmail.com](mailto:ritikpr307@gmail.com)
+- Portfolio: [https://ritik307.github.io/portfolio/](https://ritik307.github.io/portfolio/)
+- Twitter: [@ritikhere307](https://twitter.com/ritikhere307)
