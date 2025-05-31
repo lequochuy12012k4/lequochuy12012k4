@@ -7,8 +7,8 @@
 
 ## [Tên Của Bạn]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_LINKEDIN_CUA_BAN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white)](URL_PORTFOLIO_CUA_BAN)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](URL_FACEBOOK_CUA_BAN)
+[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](URL_GOOGLE_CUA_BAN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_CUA_BAN)
 <!-- Thêm các badge khác nếu muốn (Twitter, Blog, etc.) -->
 
@@ -148,8 +148,8 @@ Bạn có thể xem các dự án được ghim (pinned repositories) của tôi
 Bạn có thể tìm thấy tôi ở đây:
 
 *   **Email:** [EMAIL_CUA_BAN]
-*   **LinkedIn:** [URL_LINKEDIN_CUA_BAN]
-*   **Portfolio:** [URL_PORTFOLIO_CUA_BAN]
+*   **Facebook:** [URL_FACEBOOK_CUA_BAN]
+*   **Google:** [URL_GOOGLE_CUA_BAN]
 *   **Blog/Website cá nhân:** [URL_BLOG_CUA_BAN] (nếu có)
 *   **Twitter/X:** [@TEN_TWITTER_CUA_BAN] (nếu có)
 
