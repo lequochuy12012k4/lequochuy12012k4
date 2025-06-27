@@ -1,14 +1,13 @@
-# 👋 Chào mừng đến với Profile GitHub của tôi!
+# 👋 CV cá nhân
 
 <p align="center">
   <img src="URL_TO_YOUR_BANNER_IMAGE_OR_GIF" alt="Banner cá nhân" width="800"/>
   <!-- Bạn có thể tạo banner tại canva.com hoặc các công cụ tương tự -->
 </p>
 
-## [Tên Của Bạn]
+## Lê Quốc Huy
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](URL_FACEBOOK_CUA_BAN)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](URL_GOOGLE_CUA_BAN)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lequochuy12012k4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_CUA_BAN)
 <!-- Thêm các badge khác nếu muốn (Twitter, Blog, etc.) -->
 
