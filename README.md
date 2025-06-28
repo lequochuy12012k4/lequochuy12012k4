@@ -101,32 +101,32 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
   <h4>Most Used Languages:</h4>
   <div class="skill">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-    <strong>JavaScript: 60.81%</strong>
+    <strong>: 30%</strong>
   </div>
 
   <div class="skill">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-    <strong>C/C++: 1.36%</strong>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C/C++">
+    <strong>: 50%</strong>
   </div>
 
   <div class="skill">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-    <strong>Python: 70%</strong>
+    <strong>: 70%</strong>
   </div>
 
   <div class="skill">
     <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML/CSS">
-    <strong>HTML/CSS: 40%</strong>
+    <strong>: 40%</strong>
   </div>
 
   <div class="skill">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-    <strong>PHP: 25%</strong>
+    <strong>: 25%</strong>
   </div>
 
   <div class="skill">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
-    <strong>Dart: 10%</strong>
+    <strong>: 10%</strong>
   </div>
 </div>
 
