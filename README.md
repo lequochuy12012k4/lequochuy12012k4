@@ -11,7 +11,9 @@
 [![Zalo](https://img.shields.io/badge/Zalo-1877F2?style=for-the-badge&logo=zalo&logoColor=white)](0912915138)
 ---
 
-Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. Trong suốt thời gian học, em có một sư đam mê vể phát triển phần mềm. Tuy chưa có kinh nghiệm và là sinh viên trái ngành, em tự học và tạo một vài project để nâng cao kiến thức. Em mong muốn có cơ hội thực tập để học hỏi, phát triển bản thân và đóng góp cho công ty
+-  Sinh viên năm 3 ngành Kỹ thuật điện tử viễn thông
+-  Đam mê phát triển ứng dụng trên các nền tảng
+-  Chăm chỉ, ham học hỏi, nghiêm túc trong công việc
 
 ---
 
