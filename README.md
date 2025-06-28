@@ -102,7 +102,7 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
 
 ---
 
-### 📊 My GitHub Usage 🐧
+### 📊 Ngôn ngữ sử dụng trong Github:🐧
 
 <div align="left" style="padding-left: 20px;">
   <h4>Most Used Languages:</h4>
@@ -143,7 +143,7 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
 
 <!-- Phần liên hệ (ví dụ) -->
 
-### 📫 How to reach me:
+### 📫 Liên hệ:
 - Email: [lequochuy12012k4@gmail.com](lequochuy12012k4@gmail.com)
 - Github: [https://github.com/lequochuy12012k4/lequochuy12012k4](https://github.com/lequochuy12012k4/lequochuy12012k4)
 - Facebook: [https://www.facebook.com/lequochuy12012k4/](https://www.facebook.com/lequochuy12012k4/)
