@@ -86,14 +86,14 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
 </div>
 
 <div class="skill">
-  <img src="https://avatars.githubusercontent.com/u/107858231?s=200&v=4"
+  <img src="https://img.icons8.com/color/512/cursor-ai.png"
        alt="Cursor" width="24" height="24"
        style="vertical-align: middle; margin-right: 5px;">
   <strong>Cursor</strong>
 </div>
 
 <div class="skill">
-  <img src="https://avatars.githubusercontent.com/u/93925242?s=200&v=4"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_84-WS_nHtqLPnuvyLEAR17zFDRFuD-7yQ&s"
        alt="GitHub Copilot" width="24" height="24"
        style="vertical-align: middle; margin-right: 5px;">
   <strong>GitHub Copilot</strong>
