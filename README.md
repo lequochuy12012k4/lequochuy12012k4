@@ -1,4 +1,4 @@
-# 👋 Hồ sơ cá nhân
+![image](https://github.com/user-attachments/assets/f08c2ee6-cd58-4db5-9707-4a47c3df5300)# 👋 Hồ sơ cá nhân
 
 <p align="center">
   <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Banner cá nhân" width="800"/>
@@ -79,7 +79,7 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
   <!-- AI & Machine Learning -->
   <strong>AI Support:</strong> 
   <<div class="skill">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Google_Gemini_logo.svg/32px-Google_Gemini_logo.svg.png"
+  <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png"
        alt="Gemini" width="24" height="24"
        style="vertical-align: middle; margin-right: 5px;">
   <strong>Gemini</strong>
