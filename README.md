@@ -1,4 +1,4 @@
-👋 <h1>Hồ sơ cá nhân</h1>
+<h1>👋Hồ sơ cá nhân</h1>
 
 <p align="center">
   <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Banner cá nhân" width="800"/>
