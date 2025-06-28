@@ -125,9 +125,8 @@ Tôi là một **[Chức danh của bạn, ví dụ: Lập trình viên Full-Sta
 ---
 
 <!-- Phần liên hệ (ví dụ) -->
-<!-- 
+
 ### 📫 How to reach me:
 - Email: [ritikpr307@gmail.com](mailto:ritikpr307@gmail.com)
 - Portfolio: [https://ritik307.github.io/portfolio/](https://ritik307.github.io/portfolio/)
 - Twitter: [@ritikhere307](https://twitter.com/ritikhere307)
--->
