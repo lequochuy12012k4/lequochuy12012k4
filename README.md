@@ -52,7 +52,9 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
   <strong>Backend:</strong> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>Node.js  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="24" height="24" style="vertical-align: middle; margin-right: 5px; color: white;"/>Express.js  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original-wordmark.svg" alt="Express.js" width="24" height="24" style="vertical-align: middle; margin-right: 5px; color: white;"/>Django
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+       alt="Django" width="24" height="24"
+       style="vertical-align: middle; margin-right: 5px;">Django
   <br><br>
 
   <!-- Databases -->
