@@ -7,36 +7,25 @@
 ## Lê Quốc Huy
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lequochuy12012k4/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-<!-- Thêm các badge khác nếu muốn (Twitter, Blog, etc.) -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lequochuy12012k4@gmail.com)
 
 ---
 
-Tôi là một **[Chức danh của bạn, ví dụ: Lập trình viên Full-Stack, Kỹ sư Phần mềm, Nhà khoa học Dữ liệu]** đam mê với việc xây dựng các giải pháp phần mềm sáng tạo và hiệu quả. Với kinh nghiệm trong **[số] năm** làm việc với **[các công nghệ/lĩnh vực chính bạn làm việc]**, tôi luôn tìm kiếm cơ hội để học hỏi và đóng góp vào các dự án thú vị.
-
-✨ **Triết lý làm việc của tôi:** *"Code sạch, tư duy rõ ràng, và luôn hướng tới người dùng cuối."*
+Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. Trong suốt thời gian học, em có một sư đam mê vể phát triển phần mềm. Tuy chưa có kinh nghiệm và là sinh viên trái ngành, em tự học và tạo một vài project để nâng cao kiến thức. Em mong muốn có cơ hội thực tập để học hỏi, phát triển bản thân và đóng góp cho công ty
 
 ---
 
-### 👨‍💻 Về tôi
+### 👨‍💻 Về bản thân
 
-*   🌍 Tôi đến từ **[Thành phố/Quốc gia của bạn]**.
-*   🚀 Hiện tại, tôi đang làm việc tại **[Tên công ty hoặc "Freelancer"]** với vai trò **[Chức danh]**.
-*   🧠 Tôi quan tâm đến **[Lĩnh vực bạn quan tâm, ví dụ: Trí tuệ nhân tạo, Phát triển Web, An ninh mạng, DevOps]**.
-*   🌱 Tôi đang học hỏi thêm về **[Công nghệ/Kỹ năng bạn đang học, ví dụ: Rust, Kubernetes, Machine Learning Operations]**.
-*   🤝 Tôi sẵn lòng hợp tác trong các dự án **[Loại dự án bạn muốn tham gia, ví dụ: mã nguồn mở, các dự án về AI, ứng dụng di động]**.
-*   💬 Hãy hỏi tôi về bất cứ điều gì liên quan đến **[Chủ đề bạn tự tin chia sẻ, ví dụ: JavaScript, Python, React, kiến trúc microservices]**.
-*   ⚡ Fun fact: **[Một sự thật thú vị về bạn, có thể liên quan hoặc không liên quan đến công việc]**.
+*   🌍 Em đến từ Thành phố Thanh Hóa.
+*   🚀 Hiện tại, em đang là sinh viên tại Học viên công nghệ Bưu chính viễn thông.
+*   🧠 Em quan tâm đến Phát triển phần mềm.
+*   🌱 Em đang học hỏi thêm về React Hook.
+*   🤝 Em sẵn lòng hợp tác trong các dự án **[MobileApp, WebApp, Desktop App]**.
 
 ---
 
 ### 🛠️ Kỹ năng & Công nghệ
-
-Đây là một số công nghệ và công cụ mà tôi thường xuyên làm việc cùng:
-
----
-
-### 🛠️ Technology Stack & Tools 🐧
 
 <p align="left">
   <!-- Ngôn ngữ -->
@@ -111,9 +100,8 @@ Tôi là một **[Chức danh của bạn, ví dụ: Lập trình viên Full-Sta
 <div align="left" style="padding-left: 20px;">
   <h4>Most Used Languages:</h4>
   <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>   <strong>JavaScript: 60.81%</strong></p>
-  <p><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>   <strong>C#: 37.83%</strong></p>
-  <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>   <strong>C++: 1.36%</strong></p>
-  <!-- Cập nhật các ngôn ngữ và % từ profile của bạn -->
+  <p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>   <strong>C/C++: 1.36%</strong></p>
+  <p><img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=blue" alt="Python"/>  <strong>Python: 70%</strong></p>
 </div>
 
 <br>
