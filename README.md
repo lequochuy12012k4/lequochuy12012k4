@@ -1,14 +1,14 @@
 # 👋 Hồ sơ cá nhân
 
 <p align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE_OR_GIF" alt="Banner cá nhân" width="800"/>
+  <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Banner cá nhân" width="800"/>
 </p>
 
 ## Lê Quốc Huy
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lequochuy12012k4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lequochuy12012k4@gmail.com)
-[![Zalo](https://img.shields.io/badge/Zalo-1877F2?style=for-the-badge&logo=zalo&logoColor=white)](https://www.facebook.com/lequochuy12012k4/)
+[![Zalo](https://img.shields.io/badge/Zalo-1877F2?style=for-the-badge&logo=zalo&logoColor=white)](0912915138)
 ---
 
 Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. Trong suốt thời gian học, em có một sư đam mê vể phát triển phần mềm. Tuy chưa có kinh nghiệm và là sinh viên trái ngành, em tự học và tạo một vài project để nâng cao kiến thức. Em mong muốn có cơ hội thực tập để học hỏi, phát triển bản thân và đóng góp cho công ty
@@ -122,4 +122,4 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
 - Email: [lequochuy12012k4@gmail.com](lequochuy12012k4@gmail.com)
 - Github: [https://github.com/lequochuy12012k4/lequochuy12012k4](https://github.com/lequochuy12012k4/lequochuy12012k4)
 - Facebook: [https://www.facebook.com/lequochuy12012k4/](https://www.facebook.com/lequochuy12012k4/)
-- Zalo: 
+- Zalo: [0912915138](0912915138)
