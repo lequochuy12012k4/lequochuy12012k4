@@ -39,7 +39,9 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
        alt="PHP" width="24" height="24"
        style="vertical-align: middle; margin-right: 5px;">PHP 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="Dart" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>Dart  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+       alt="Dart" width="24" height="24"
+       style="vertical-align: middle; margin-right: 5px;">Dart  
   <br><br>
 
   <!-- Frontend Frameworks & Libraries -->
