@@ -36,7 +36,9 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>Python  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>HTML5  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>CSS3  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original-wordmark.svg" alt="PHP" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>PHP 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original-wordmark.svg"
+       alt="PHP" width="24" height="24"
+       style="vertical-align: middle; margin-right: 5px;">PHP 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="Dart" width="24" height="24" style="vertical-align: middle; margin-right: 5px;"/>Dart  
   <br><br>
 
