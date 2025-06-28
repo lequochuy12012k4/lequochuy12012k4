@@ -78,7 +78,26 @@ Em đang là sinh viên năm 3, ngành Kỹ thuật điện tử viễn thông. 
 
   <!-- AI & Machine Learning -->
   <strong>AI Support:</strong> 
+  <<div class="skill">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Google_Gemini_logo.svg/32px-Google_Gemini_logo.svg.png"
+       alt="Gemini" width="24" height="24"
+       style="vertical-align: middle; margin-right: 5px;">
+  <strong>Gemini</strong>
+</div>
 
+<div class="skill">
+  <img src="https://avatars.githubusercontent.com/u/107858231?s=200&v=4"
+       alt="Cursor" width="24" height="24"
+       style="vertical-align: middle; margin-right: 5px;">
+  <strong>Cursor</strong>
+</div>
+
+<div class="skill">
+  <img src="https://avatars.githubusercontent.com/u/93925242?s=200&v=4"
+       alt="GitHub Copilot" width="24" height="24"
+       style="vertical-align: middle; margin-right: 5px;">
+  <strong>GitHub Copilot</strong>
+  
 </p>
 
 ---
