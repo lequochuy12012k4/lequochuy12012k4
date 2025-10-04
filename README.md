@@ -8,8 +8,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lequochuy12012k4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lequochuy12012k4@gmail.com)
-[![Zalo](https://img.shields.io/badge/Zalo-1877F2?style=for-the-badge&logo=zalo&logoColor=white)](0912915138)
----
 
 -  Sinh viên năm 3 ngành Kỹ thuật điện tử viễn thông
 -  Đam mê phát triển ứng dụng trên các nền tảng
