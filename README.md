@@ -149,4 +149,3 @@
 - Email: [lequochuy12012k4@gmail.com](lequochuy12012k4@gmail.com)
 - Github: [https://github.com/lequochuy12012k4/lequochuy12012k4](https://github.com/lequochuy12012k4/lequochuy12012k4)
 - Facebook: [https://www.facebook.com/lequochuy12012k4/](https://www.facebook.com/lequochuy12012k4/)
-- Zalo: [0912915138](0912915138)
